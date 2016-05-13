@@ -1,8 +1,8 @@
-starter-python-bot
+conan-python-bot
 =============
 
 ## Overview
-A simple starting point for creating a Beep Boop hostable, Python based Slack bot.
+Based on a simple starting point for creating a Beep Boop hostable, Python based Slack bot.
 
 Visit [Beep Boop](https://beepboophq.com/docs/article/overview) to get the scoop on the the Beep Boop hosting platform. The Slack API documentation can be found [here](https://api.slack.com/).
 
