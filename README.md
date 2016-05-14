@@ -1,4 +1,4 @@
-conan-python-bot
+akiro-python-bot
 =============
 
 ## Overview
