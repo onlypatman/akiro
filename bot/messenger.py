@@ -35,6 +35,10 @@ class Messenger(object):
         txt = "I'm sorry, I didn't quite understand... Can I help you? (e.g. `<@" + bot_uid + "> help`)"
         self.send_message(channel_id, txt)
 
+    def write_gc(self, channel_id, user_id):
+        txt = "<@" + user_id + "> has started the GC"
+        self.send_message(channel_id, txt)
+
     def write_joke(self, channel_id):
         question = "Why did the python cross the road?"
         self.send_message(channel_id, question)
